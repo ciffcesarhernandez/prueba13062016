@@ -1,6 +1,7 @@
 def stepwise(): 
  import numpy
  import pandas as pd 
+ from math import sqrt
  from sklearn.linear_model import LinearRegression
  from sklearn.cross_validation import train_test_split
 
